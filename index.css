@@ -1,0 +1,57 @@
+html {
+     background-color: skyblue;
+     opacity: 0.8;
+}
+
+h1 {
+     color: red;
+     font-size: 3em;
+     font-family:Verdana, Geneva, Tahoma, sans-serif;
+     text-align: center;
+}
+
+h3 {
+    color: red;
+     font-size: 2em;
+     font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#players {
+     display: flex;
+     padding-left: 30vw;
+}
+
+#playerTwo {
+    margin-left: 20vw;
+}
+
+img {
+     width: 5em;
+     height: 5em;
+     margin-left: 2em;
+}
+
+button {
+     color: red;
+     font-size: 2.5em;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     margin-left: 46vw;
+     border-radius: 5px;
+}
+
+button:hover {
+     background-color: red;
+     color: white;
+     font-size: 3em;
+}
+
+#winner {
+     margin-left: 42vw;
+}
+
+footer {
+   margin-left: 90vw;
+   color: red;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 1em;
+}
